@@ -1,7 +1,7 @@
 
 # **THIS REPOSITORY IS DEPRECATED**
 
-The repository for the nsCamera software has been trasnferred to the LLNL GitHub site. Please use the repositories at https://github.com/llnl/nsCamera and https://github.com/llnl/nsCamera_plugin .
+The repository for the nsCamera software has been transferred to the LLNL GitHub site. Please use the repositories at https://github.com/llnl/nsCamera and https://github.com/llnl/nsCamera_plugin .
 
 
 
