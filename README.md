@@ -1,3 +1,10 @@
+
+# **THIS REPOSITORY IS DEPRECATED**
+
+The repository for the nsCamera software has been trasnferred to the LLNL GitHub site. Please use the repositories at https://github.com/llnl/nsCamera and https://github.com/llnl/nsCamera_plugin .
+
+
+
 <style type="text/css">@page { size: letter; margin-top: 0.4in; margin-bottom: 0.4in;margin-left: -0.05in; margin-right: -0.05in }</style>
 # nsCamera Software Interface
 
